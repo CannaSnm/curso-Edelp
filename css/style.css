@@ -3,8 +3,41 @@
 
 }
 .boton{
-    position: relative;
+ 
     font-size: 25px;
     margin-right: 15px;
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+  
     
+}
+    
+
+.centrar{
+    background: #000;
+
+
+
+}
+.fondofoto{
+    background: #DE1D22;
+}
+.tarjeta{
+    height: 100%;
+    background-color: #ededed;
+    
+    
+}
+.fondopie{
+    background-color: #000000;
+}
+.fondocards{
+    background-color: #DE1D22;
+}
+
+.iconotarjeta{
+    font-size: 5rem;
+    margin :auto;
+    margin-top: 2rem;
 }
